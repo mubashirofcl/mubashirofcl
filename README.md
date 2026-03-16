@@ -114,7 +114,7 @@ If you find my projects helpful or inspiring, consider buying me a coffee!
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=mubashirofcl&icon=6&color=1)](https://visitcount.itsvg.in)
+[![Visit Portfolio](https://mubashiir.in)](https://mubashiir.in)
 
 **Thanks for visiting! Let's connect and build something amazing together. 🚀**
 
