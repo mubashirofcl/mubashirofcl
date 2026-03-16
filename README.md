@@ -114,7 +114,7 @@ If you find my projects helpful or inspiring, consider buying me a coffee!
 
 <div align="center">
 
-[![Visit Freelance Portfolio](https://www.orvynlabs.in/favicon.ico)](https://www.orvynlabs.in)
+[Visit Freelance Portfolio](https://www.mubashiir.in)
 
 **Thanks for visiting! Let's connect and build something amazing together. 🚀**
 
