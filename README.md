@@ -4,7 +4,7 @@
 
 ### Full-Stack MERN Developer · UI Enthusiast · Cloud Practitioner
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://mubashirofcl.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://mubashiir.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubashirpp)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubashirppofcl@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mubashirofcl)
@@ -95,40 +95,6 @@ I'm constantly exploring new technologies, refining my DevOps workflow, and look
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mubashirofcl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mubashirofcl&theme=tokyonight&no-frame=true&no-bg=true&column=7)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mubashirofcl/mubashirofcl/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mubashirofcl/mubashirofcl/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/mubashirofcl/mubashirofcl/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### ✍️ Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
